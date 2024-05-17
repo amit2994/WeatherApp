@@ -12,7 +12,7 @@ This is a weather application built using React.js and Tailwind CSS. It allows u
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/RKartik9/Weather-App
+   git clone https://github.com/amit2994/Weather-App
    
 2. Navigate to the project directory:
    cd weather-app
